@@ -2,8 +2,8 @@
   display: flex;
   justify-content: center;
 }
-.App {
-  height: 100%;
+body {
+  margin: 0px;
 }
 button,
 input,
